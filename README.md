@@ -1,2 +1,14 @@
-#  Khaugalli.com: A Cutting-Edge Solution for Informed Meal Selection
-Finding a suitable and reliable mess for daily meals can be a challenging task for individuals, including students and working professionals. To address this problem, this model was developed as a comprehensive web-based application. Leveraging HTML, CSS, and JavaScript for the frontend, Node.js for the backend, and MongoDB as the database system, this model offers a convenient solution by simplifying the search for the best mess in the nearby area. Users can easily compare menus and place orders, saving valuable time and effort in the process. This user-friendly platform aims to cater to the needs of both students and working professionals, providing a streamlined and efficient way to select and order meals on a daily basis.
+🍽️ #Khaugalli.com – A Smart Solution for Informed Meal Selection
+Khaugalli.com is a comprehensive web-based platform designed to make finding and ordering from local messes (daily food providers) easy, efficient, and reliable — particularly for students and working professionals who rely on daily meal services.
+
+🚀 Project Overview
+Finding a dependable mess for daily meals can be time-consuming and confusing. Khaugalli.com addresses this issue by allowing users to:
+
+🔍 Search for nearby mess options
+📋 Compare menus based on variety, pricing, and preferences
+🛒 Place meal orders directly through the platform
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js
+Database: MongoDB
